@@ -30,7 +30,7 @@
 	</build>
 
 	<dependencies>
-	
+
 		<dependency>
 			<groupId>org.springframework.batch</groupId>
 			<artifactId>spring-batch-core</artifactId>
